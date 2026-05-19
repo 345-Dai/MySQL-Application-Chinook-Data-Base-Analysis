@@ -40,5 +40,5 @@ To scale revenue, we designed a data-driven **Tiered Referral Program** targetin
 ---
 
 ## 📂 How to Access the Project
-* View the full SQL script: `Chinook_Analysis.sql`
-* View the final presentation presentation: `CHINOOK_Final.pptx`
+* [View the full SQL script: Chinook_Analysis.sql](Chinook_Analysis.sql)
+* [View the final presentation: CHINOOK_Final.pptx](CHINOOK_Final.pptx)
